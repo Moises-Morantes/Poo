@@ -1,4 +1,4 @@
-package Figuras;
+package parte_2;
 
 public class Circulo {
 	double radio; 

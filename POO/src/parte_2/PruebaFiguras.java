@@ -1,4 +1,4 @@
-package Figuras;
+package parte_2;
 import java.util.Scanner;
 
 public class PruebaFiguras {
