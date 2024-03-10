@@ -7,7 +7,7 @@ public class Ejercicio_18 {
 
         System.out.println("Ingrese el código del empleado:");
         int codigoEmpleado = input.nextInt();
-        input.nextLine(); // Consumir la nueva línea pendiente
+        input.nextLine(); 
 
         System.out.println("Ingrese los nombres del empleado:");
         String nombres = input.nextLine();
@@ -23,7 +23,6 @@ public class Ejercicio_18 {
         System.out.println("Ingrese el porcentaje de retención en la fuente:");
         double retencionFuente = input.nextDouble();
 
-       
         double salarioBruto = horasTrabajadas * valorHora;
         double salarioNeto = salarioBruto - (salarioBruto * (retencionFuente / 100));
         System.out.println("Código del empleado: " + codigoEmpleado);
