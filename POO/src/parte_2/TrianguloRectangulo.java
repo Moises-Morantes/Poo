@@ -21,15 +21,14 @@ double calcularHipotenusa() {
 }
  
 void determinarTipoTriángulo() {
-if ((base == altura) && (base == calcularHipotenusa()) && (altura == calcularHipotenusa()))
+	if ((base == altura) && (base == calcularHipotenusa()) && (altura == calcularHipotenusa()))
 	
 System.out.println("Es un triángulo equilátero"); 
 
-else if ((base != altura) && (base != calcularHipotenusa()) &&
-(altura != calcularHipotenusa()))
-System.out.println("Es un triángulo escaleno");  
+else if ((base != altura) && (base != calcularHipotenusa()) &&(altura != calcularHipotenusa()))
+	System.out.println("Es un triángulo escaleno");  
 
 else 
-System.out.println("Es un triángulo isósceles");  
+	System.out.println("Es un triángulo isósceles");  
 }
 }

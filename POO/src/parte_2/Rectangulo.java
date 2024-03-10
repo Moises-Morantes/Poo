@@ -1,18 +1,18 @@
 package parte_2;
 
 public class Rectangulo {
-double base,altura;  
+	double base,altura;  
  
 Rectangulo(double base,double altura) {
-this.base = base;
-this.altura = altura;
+	this.base = base;
+	this.altura = altura;
 }
  
 double calcularArea() {
-return base * altura;
+	return base * altura;
 }
   
 double calcularPerímetro() {
-return (2 * base) + (2 * altura);
+	return (2 * base) + (2 * altura);
 }
 }
