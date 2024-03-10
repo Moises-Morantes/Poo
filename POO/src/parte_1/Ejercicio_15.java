@@ -14,12 +14,14 @@ public class Ejercicio_15 {
         
         if (pesoA == pesoB) {
             // Esfera diferente: C o D
+        	
             if (pesoC < pesoA) {
                 System.out.println("La esfera diferente es C y es menos pesada.");
             } else {
                 System.out.println("La esfera diferente es D y es más pesada.");
             }
         } else if (pesoA == pesoC) {
+        	
             // Esfera diferente: B o D
             if (pesoB < pesoA) {
                 System.out.println("La esfera diferente es B y es menos pesada.");
@@ -27,6 +29,7 @@ public class Ejercicio_15 {
                 System.out.println("La esfera diferente es D y es más pesada.");
             }
         } else {
+        	
             // Esfera diferente: A o B
             if (pesoA < pesoD) {
                 System.out.println("La esfera diferente es A y es menos pesada.");
