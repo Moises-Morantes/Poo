@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EJPROP23",
+            "request": "launch",
+            "mainClass": "POO/parte_1.EJPROP23",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "EJPROP24",
+            "request": "launch",
+            "mainClass": "POO/parte_1.EJPROP24",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "EJRES10",
+            "request": "launch",
+            "mainClass": "POO/parte_1.EJRES10",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "EJRES11",
+            "request": "launch",
+            "mainClass": "POO/parte_1.EJRES11",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "EJRES7",
+            "request": "launch",
+            "mainClass": "POO/parte_1.EJRES7",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_13",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Ejercicio_13",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_15",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Ejercicio_15",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_18",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Ejercicio_18",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_22",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Ejercicio_22",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Punto_12",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Punto_12",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Punto_14",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Punto_14",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Punto_19",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Punto_19",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Punto_21",
+            "request": "launch",
+            "mainClass": "POO/parte_1.Punto_21",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "PruebaFiguras",
+            "request": "launch",
+            "mainClass": "POO/parte_2.PruebaFiguras",
+            "projectName": "POO"
+        }
+    ]
+}
